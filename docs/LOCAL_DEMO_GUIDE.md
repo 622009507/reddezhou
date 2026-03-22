@@ -319,8 +319,9 @@ A：Demo性能优秀，加载速度快，运行流畅。
 - [GitHub仓库](https://github.com/622009507/reddezhou)
 
 ### 联系我们
-- **邮箱**：business@reddezhou.com
-- **官网**：https://www.reddezhou.com
+- **邮箱**：622009507@qq.com
+- **电话/微信**：+86-186-2103-6721
+- **GitHub**：https://github.com/622009507/reddezhou
 
 ---
 

@@ -215,6 +215,101 @@ npm run serve
 - [销售渠道](docs/SALES_CHANNELS.md) - 销售渠道和策略
 - [推广执行计划](docs/PROMOTION_EXECUTION_PLAN.md) - 详细的推广执行计划
 
+## 📸 产品截图
+
+### 运营后台
+
+![运营后台 - 登录界面](assets/screenshots/backend/backend-01-login.png)
+![运营后台 - 首页仪表盘](assets/screenshots/backend/backend-02-dashboard.png)
+![运营后台 - 用户管理](assets/screenshots/backend/backend-03-user.png)
+![运营后台 - 游戏房间管理](assets/screenshots/backend/backend-04-room.png)
+
+### 游戏客户端
+
+![游戏客户端 - 登录界面](assets/screenshots/client/client-01-login.png)
+![游戏客户端 - 游戏大厅](assets/screenshots/client/client-02-lobby.png)
+![游戏客户端 - 游戏房间](assets/screenshots/client/client-03-room.png)
+![游戏客户端 - 游戏进行中](assets/screenshots/client/client-04-playing.png)
+
+---
+
+## 🎬 演示视频
+
+### 运营后台演示
+
+[![运营后台演示](assets/screenshots/backend/backend-02-dashboard.png)](assets/videos/backend-demo.mp4)
+
+[观看运营后台演示视频](assets/videos/backend-demo.mp4)
+
+**视频内容**：
+- 登录系统
+- 查看仪表盘
+- 用户管理操作
+- 游戏房间管理
+- 数据统计查看
+- 财务管理操作
+- 活动配置演示
+
+**视频时长**：3-5分钟
+
+---
+
+### 游戏客户端演示
+
+[![游戏客户端演示](assets/screenshots/client/client-02-lobby.png)](assets/videos/client-demo.mp4)
+
+[观看游戏客户端演示视频](assets/videos/client-demo.mp4)
+
+**视频内容**：
+- 游戏登录
+- 进入游戏大厅
+- 加入游戏房间
+- 游戏进行过程
+- 游戏结算
+- 充值操作
+- 个人中心
+
+**视频时长**：3-5分钟
+
+---
+
+## 🌐 在线Demo
+
+### GitHub Pages Demo
+
+**访问地址**：https://622009507.github.io/reddezhou/demo.html
+
+**说明**：
+- ✅ 无需下载，直接在浏览器中访问
+- ✅ 完整展示产品功能和界面
+- ✅ 包含运营后台和游戏客户端截图
+- ✅ 支持PC和移动端访问
+- ✅ 永久有效，随时访问
+
+**Demo包含内容**：
+- ✅ 产品亮点介绍
+- ✅ 技术栈展示
+- ✅ 运营后台功能截图（登录、仪表盘、用户管理、房间管理、数据统计、财务管理、活动管理）
+- ✅ 游戏客户端界面截图（游戏大厅、游戏房间、游戏界面、牌局展示、结算界面、个人中心、充值界面、排行榜、好友系统、设置界面）
+- ✅ 快速开始指南
+
+---
+
+### 本地Demo（可选）
+
+如果您想在本地查看Demo，可以：
+
+1. 下载项目到本地
+2. 双击打开 `demo.html` 文件
+3. 在浏览器中查看完整的产品展示
+
+**优势**：
+- 无需联网
+- 加载速度快
+- 可以修改和定制
+
+---
+
 ## 🎥 演示视频
 
 [![演示视频](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
@@ -290,14 +385,13 @@ npm run serve
 
 ### 联系方式
 
-- **邮箱**：business@reddezhou.com
-- **电话**：+86-XXX-XXXX-XXXX
-- **官网**：https://www.reddezhou.com
-- **微信**：reddezhou
+- **邮箱**：622009507@qq.com
+- **电话/微信**：+86-186-2103-6721
+- **GitHub**：https://github.com/622009507/reddezhou
 
 ### 获取流程
 
-1. **联系我们**：通过邮箱、电话或官网联系我们
+1. **联系我们**：通过邮箱、电话或微信联系我们
 2. **确定需求**：选择服务套餐，确定定制需求
 3. **签订合同**：签订技术服务合同
 4. **支付预付款**：支付合同预付款

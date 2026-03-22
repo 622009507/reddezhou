@@ -360,14 +360,21 @@ server {
 
 **GitHub**：https://github.com/622009507/reddezhou
 
-**本地Demo**：打开项目根目录的 `demo.html` 文件即可查看产品展示
+**GitHub Pages Demo**：https://622009507.github.io/reddezhou/demo.html
 
 **说明**：
 - 本Demo展示了运营后台和游戏客户端的核心功能
 - 包含产品亮点、技术栈、功能截图等完整信息
-- 如需完整体验，请联系我们获取完整源码
+- 无需下载，直接在浏览器中访问
+- 支持PC和移动端访问
+- 永久有效，随时访问
 
-**联系我们**：business@reddezhou.com
+**本地Demo（可选）**：
+- 下载项目到本地
+- 打开项目根目录的 `demo.html` 文件
+- 在浏览器中查看
+
+**联系我们**：622009507@qq.com
 
 ---
 
