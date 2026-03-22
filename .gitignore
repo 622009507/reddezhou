@@ -1,0 +1,77 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+
+# Log files
+*.log
+logs/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.unityproj
+*.suo
+*.pidb
+
+# Database
+*.sql.backup
+*.db
+
+# Config files with sensitive data
+**/config/application-prod.yml
+**/config/application-online.yml
+**/wg.properties
+**/wg-win.properties
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Backup files
+*.bak
+*.backup
+
+# Zip files
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Test files
+*.test
+*.spec
