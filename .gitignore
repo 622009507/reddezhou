@@ -75,3 +75,9 @@ docs/.doctrees/
 # Test files
 *.test
 *.spec
+
+# Source code - DO NOT PUBLISH
+Server/
+redPoker/
+Server.zip
+README_GITHUB.md
